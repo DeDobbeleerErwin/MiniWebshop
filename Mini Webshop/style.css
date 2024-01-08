@@ -1,0 +1,33 @@
+.navbar, .btn{
+    background-color: #B17F4A;
+    color:  #FFF3D9;
+}
+
+.nav-link{
+    color:  #FFF3D9;
+    border-radius: 0.3rem;
+    padding: 0.65em 2rem;
+    margin: 0 2rem;
+}
+
+.btn:hover, .nav-link:hover{
+    background-color: #FFF3D9;
+    color: #B17F4A;
+}
+
+#shopping-cart{
+    color: #FFF3D9;
+}
+
+.active {
+    background-color: #FFF3D9;
+    color: #B17F4A;
+}
+
+.card{
+    height: 100%;
+}
+
+#carousel{
+    height: 20px
+}
